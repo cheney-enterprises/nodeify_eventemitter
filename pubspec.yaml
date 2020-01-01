@@ -1,0 +1,16 @@
+name: nodeify
+
+description: a nodejs-like set of packages, whose first release consists of an EventEmitter package
+
+homepage: https://github.com/cheney-enterprises/
+
+repository: https://github.com/cheney-enterprises/nodeify_eventemitter
+
+version: '1.1.3'
+
+environment:
+    sdk: '>=2.6.0 <3.0.0'
+
+dev_dependencies:
+    pedantic:
+    test:

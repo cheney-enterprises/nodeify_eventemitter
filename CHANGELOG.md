@@ -1,0 +1,11 @@
+- 12/27/19: 1.0.0 first upload to PUB
+- 12/27/19: 1.0.1 adjusted linting rules for pub.dev
+- 12/27/19: 1.0.2 adjusted typing of local variable in EE class
+- 12/27/19: 1.0.3 ran dartfmt to remove last warning on PUB
+- 12/27/19: 1.0.4 ran added github repository to pubspec
+- 12/29/19: 1.1.0 added documentation to api, and added/changed         several methods on EventEmitter
+- 12/30/19: 1.1.1 removed streamSize from API, as this was              mistakenly left in there from development
+- 12/30/19: 1.1.1+1 removed main function from class file
+- 12/30/19: 1.1.2 updated readme.md
+- 12/30/19: 1.1.2+1 updated readme.md example
+- 1/1/20: 1.2.3 moved GitHub Repository, made some minor doc adjustments
